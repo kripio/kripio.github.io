@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Scam, internet üzerinde yer alan hileli işleri ve kullanıcıları kandırmaya yönelik gerçekleştirilen aktiviteleri tanımlamak amacıyla kullanılan bir terimdir. İnternetin insanlar arasında çok daha yaygın ve popüler hale gelmesiyle birlikte scam da doğru orantıda artmış hatta scam'ın yüzlerce örneği ve farklı çeşidi meydana getirilmiştir. 
 
