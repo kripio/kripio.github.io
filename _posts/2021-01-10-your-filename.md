@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Kripto para dünyasında “airdrop”, kripto para birimlerinin mevcut sahiplerine yeni üretilen kripto paraların ödüllendirme maksadıyla belirli bir oranda dağıtılmasıdır.
